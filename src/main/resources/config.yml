@@ -1,0 +1,3 @@
+commandToExecuteOnWinning: "/money give %player% 20"
+
+arenas:
